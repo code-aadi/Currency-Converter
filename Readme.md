@@ -1,5 +1,6 @@
 # 💱 Currency Converter (Vanilla JS)
 https://currency-converter-aadi.vercel.app
+
 A simple yet powerful tool to convert currencies in real-time using an external Exchange Rate API.
 
 ## 🚀 Features
