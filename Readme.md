@@ -10,14 +10,13 @@ A simple yet powerful tool to convert currencies in real-time using an external 
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML5, CSS3, JavaScript
-- **API:** [ExchangeRate-API](https://www.exchangerate-api.com/) (or whatever you used)
+
 
 ## ⚙️ How to run locally
 
 1. Clone this repository to your local machine:
-   ```bash
-   git clone [https://github.com/code-aadi/Currency-Converter.git](https://github.com/code-aadi/Currency-Converter.git)
-
+  ```bash
+   git clone https://github.com/code-aadi/Currency-Converter.git
 
 Navigate to the project folder:
 cd Currency-Converter
